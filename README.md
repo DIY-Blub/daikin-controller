@@ -230,6 +230,10 @@ The following endpoints  (according to ...) are currently not implemented and ca
 
 ## Changelog
 
+### 1.1.6 (2020-07-20)
+* update dependencies
+* tests only cover node.js 10.x+ (LTS versions), but library should also work below
+
 ### v1.1.5 (25.06.2019)
 * also set headers on daikin requests
 
